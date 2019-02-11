@@ -1,0 +1,27 @@
+#title	{
+	background-color: #d61c1c;
+}
+
+#image {
+	width:50%;
+}
+
+#statsWrapper {
+	display:flex;
+	flex-direction: column;
+}
+
+#middleContent {
+	display:flex;
+	flex-direction: row;
+}
+
+#tribute-info {
+	flex: 1;
+	
+}
+
+#statsWrapper {
+	flex:1;
+	
+}
